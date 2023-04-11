@@ -1,0 +1,18 @@
+\beamer@sectionintoc {1}{Sommaire}{2}{0}{1}
+\beamer@sectionintoc {2}{Introduction}{3}{0}{2}
+\beamer@sectionintoc {3}{Principe du jeu}{5}{0}{3}
+\beamer@sectionintoc {4}{Organisation}{14}{0}{4}
+\beamer@subsectionintoc {4}{1}{packages}{14}{0}{4}
+\beamer@sectionintoc {5}{Réalisation du moteur}{16}{0}{5}
+\beamer@subsectionintoc {5}{1}{Réalisation du plateau}{16}{0}{5}
+\beamer@subsubsectionintoc {5}{1}{1}{Représentation d'un case}{16}{0}{5}
+\beamer@subsubsectionintoc {5}{1}{2}{Assemblage des quartiers}{18}{0}{5}
+\beamer@subsectionintoc {5}{2}{Mouvements Robots}{20}{0}{5}
+\beamer@sectionintoc {6}{Interface Graphique}{21}{0}{6}
+\beamer@sectionintoc {7}{Algorithme A*}{23}{0}{7}
+\beamer@subsectionintoc {7}{1}{Présentation}{23}{0}{7}
+\beamer@subsectionintoc {7}{2}{Optimisation}{24}{0}{7}
+\beamer@subsectionintoc {7}{3}{Nouvelle Heuristique}{25}{0}{7}
+\beamer@subsectionintoc {7}{4}{Principe}{31}{0}{7}
+\beamer@sectionintoc {8}{Démo}{33}{0}{8}
+\beamer@sectionintoc {9}{Conclusion}{34}{0}{9}

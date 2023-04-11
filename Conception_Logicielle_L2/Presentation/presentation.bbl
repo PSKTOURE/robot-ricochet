@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+
+\bibitem{WikiAstar}
+Wikipedia, algorithme a*.
+\newblock \url{https://fr.wikipedia.org/wiki/Algorithme_A*}.
+
+\bibitem{WikiDijkstra}
+Wikipedia, algorithme dijkstra.
+\newblock \url{https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm}.
+
+\bibitem{heurist}
+Randycoulman.
+\newblock Zealot.
+\newblock
+  \url{https://speakerdeck.com/randycoulman/solving-ricochet-robots?slide=108}.
+
+\end{thebibliography}
